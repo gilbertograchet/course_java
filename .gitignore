@@ -27,6 +27,7 @@ tomcat
 *.ear
 *.sar
 *.class
+*.log
 
  
 
