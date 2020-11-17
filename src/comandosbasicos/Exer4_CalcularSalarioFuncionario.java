@@ -7,9 +7,7 @@ public class Exer4_CalcularSalarioFuncionario {
 
 	public static void main(String[] args) {
 		// Fazer um programa que leia o número de um funcionário, seu número de horas trabalhadas, o valor que recebe por
-		// hora e calcula o salário desse funcionário. A seguir, mostre o número e o salário do funcionário, com duas casas decimais.
-		// teste
-		// teste 2
+		// hora e calcula o salário desse funcionário. A seguir, mostre o número e o salário do funcionário, com duas casas decimais.		
 		
 		Locale.setDefault(Locale.US); //DECLARANDO O PADRÃO DE TECLADO AMERICANO
 		Scanner sc = new Scanner (System.in); //INICIANDO COMANDO PARA ENTRADA DE DADOS
