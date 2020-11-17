@@ -23,9 +23,11 @@ public class Exer3_CalcularValorMedioEntreNumeros {
 		System.out.println ("Digite o quarto valor: "); //EXIBINDO MENSAGEM NA TELA
 		Valor_4 = sc.nextInt(); //ATRIBUINDO O VALOR DIGITADO ACIMA PARA VARIAVEL Valor_4
 		
-		Diferenca = (Valor_1 * Valor_2 - Valor_3 * Valor_4);
+		Diferenca = (Valor_1 * Valor_2 - Valor_3 * Valor_4); //CALCULANDO A DIFERENÇA DOS VALORES ATRIBUIDOS AS VARIAVEIS
 		
 		System.out.println ("A DIFERENÇA DO PRODUTO É: " + Diferenca); //EXIBINDO MENSAGEM NA TELA
+		
+		
 		
 		sc.close();
 
