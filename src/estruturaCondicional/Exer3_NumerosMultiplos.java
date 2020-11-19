@@ -26,6 +26,8 @@ public class Exer3_NumerosMultiplos {
 		}
 		
 		sc.close(); //ENCERRA COMANDO DE ENTRADA DE DADOS
+		
 	}
+	
 
 }
